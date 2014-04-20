@@ -1,0 +1,38 @@
+#header {
+      border-bottom: 1px solid black;
+      margin-bottom: 20px;
+
+   }
+
+   #page {
+    margin-left: 20px;
+    margin-top:20px;
+   }
+
+   #content{
+    margin-top: 20px;
+    font-family: arial;
+    font-size: 12px;
+   }
+
+   h1 {
+      font-family: arial;
+      font-size: 32px;
+      margin: auto;
+   }
+
+    h2 {
+      font-family: arial;
+      font-size: 12px;
+      margin: auto;
+   }
+
+   #footer{
+          font-family: arial;
+          font-color: black;
+          font-size: 10px;
+          position: fixed;
+          right: 40px;
+          bottom:20px;
+          border-top: 1px solid black;
+        }
